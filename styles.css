@@ -1,0 +1,108 @@
+*
+.offers-section {
+    padding: 50px 0;
+    text-align: center;
+}
+.offers-section h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+.card-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.card-text {
+    color: #777;
+    font-size: 1rem;
+}
+.btn-book {
+    background-color: #07244c;
+    color: #e5eaf3;
+    font-weight: bold;
+    border: none;
+}
+.why-choose-us {
+    background-color: #07244c;
+    color: #e5eaf3;
+    padding: 30px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.offers-section {
+    padding: 60px 0;
+    background-color: #7671fa;
+    text-align: center;
+}
+.why-choose-us {
+    background-color: #07244c;
+    color: #e5eaf3;
+    padding: 30px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.hero-section {
+    background-color: #ffa500;
+    padding: 100px 0;
+    text-align: center;
+    color: #333;
+}
+.btn-primary {
+    padding: 10px 20px;
+    border-radius: 30px;
+    background-color: #07244c;
+}
+.hero-section {
+    background-color: #7671fa;
+    padding: 100px 0;
+    text-align: center;
+    color: #333;
+}
+.hero-section h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+.hero-section p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+.hero-section .btn-primary {
+    padding: 10px 20px;
+    border-radius: 30px;
+    background-color: #07244c;
+}
+
+.about-section {
+    padding: 60px 0;
+    background-color: #fff;
+    text-align: center;
+}
+.about-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.offers-section {
+    padding: 60px 0;
+    background-color: #ff4500;
+    text-align: center;
+}
+.offers-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.car-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+.why-choose-us {
+    background-color: #07244c;
+    color: #e5eaf3;
+    padding: 30px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
